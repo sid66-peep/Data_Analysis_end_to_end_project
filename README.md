@@ -3,7 +3,7 @@ This project is done to understand the 2021 Tokyo Olympics Dataset and Create a 
 
 Technologies Used
 
-*Azure Data Factory
+*Azure Data Factory*
 *Azure DataBricks
 *Azure Synapse
 *Power BI
