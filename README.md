@@ -8,54 +8,14 @@
 [![GitHub Sidharth](https://img.shields.io/github/followers/Sids?label=follow&style=social)](https://github.com/sid66-peep)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about the project....
+
+Implemented an end-to-end data analysis project involving the Tokyo Olympics data. Designed a robust data pipeline that ingests data from Azure Blob Storage, transforming it efficiently using Azure Databricks. Leveraged advanced data processing techniques to enhance data quality and relevance. Finally, visualized the processed data using Power BI, creating insightful dashboards for comprehensive analysis and decision-making.
+
+
+<h3>🛠 Technology used for this project</h3>
 
 
 
-- 🤔 &nbsp; Working as a Senior Systems Asociate @Infosys
+- 💻 &nbsp; PySpark | SQL | Microsft Azure | Power BI
 
-- 🎓 &nbsp; Attending Jain University for my Master's in Computer Application
-
-- 🌱 &nbsp; Mid level in Cloud technology and Data Engineering
-
-- ✍️ &nbsp; Pursuing to learn more on Data Engineering/Analyst tracks
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | SQL | PySpark | Linux 
-
-- 🔧 &nbsp; Databricks | Microsoft Azure | AirFlow | MicroStrategy | ADF
-
-<h3>🛠 To Learn</h3>
-
--  &nbsp; Go | Flutter | Synapse | Dashboarding tools
-
-<hr>
-
-
-<br/><br/>
-
-[![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sid66-peep&show_icons=true)](https://github.com/sid66-peep)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid66-peep&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
