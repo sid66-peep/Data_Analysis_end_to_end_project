@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about the project....
 
-Implemented an end-to-end data analysis project involving the Tokyo Olympics data. Designed a robust data pipeline that ingests data from Azure Blob Storage, transforming it efficiently using Azure Databricks. Leveraged advanced data processing techniques to enhance data quality and relevance. Finally, visualized the processed data using Power BI, creating insightful dashboards for comprehensive analysis and decision-making.
+Implemented an end-to-end data analysis project involving the Tokyo Olympics data. Designed a robust data pipeline that ingests data from Azure Blob Storage, transforming it efficiently using Azure Databricks. Leveraged data transformation techniques to enhance data quality and relevance. Finally, visualized the processed data using Power BI, creating insightful dashboards for comprehensive analysis and decision-making.
 
 
 <h3>🛠 Technology used for this project</h3>
